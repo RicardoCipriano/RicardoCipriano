@@ -1,33 +1,33 @@
 # Olá, eu sou o Ricardo Cipriano! 👋
 
-Especialista em Automação de Processos e RPA. Meu foco é transformar tarefas manuais repetitivas em fluxos digitais eficientes e escaláveis.
+Especialista em **Automação Inteligente** e **Desenvolvimento de Sistemas com IA**. Unindo o poder do Python, a flexibilidade do n8n e a inteligência dos LLMs para criar soluções de próxima geração.
 
-## 🛠️ No que eu trabalho:
-- **RPA com Python:** Desenvolvimento de bots para automação de tarefas em sistemas web e desktop.
-- **Automação Low-Code (n8n):** Criação de workflows complexos conectando APIs, CRMs e bancos de dados.
-- **Integrações:** Conexão de serviços via Webhooks e APIs REST.
+## 🤖 Especialidades em IA:
+- **Agentes de IA com n8n:** Criação de fluxos autônomos que utilizam OpenAI, Anthropic e modelos locais para tomada de decisão e processamento de linguagem natural.
+- **Desenvolvimento de Sistemas com IA:** Integração de Python com APIs de inteligência artificial para análise de dados e automação de tarefas cognitivas.
+- **RPA Inteligente:** Evolução do RPA tradicional para processos que exigem interpretação de documentos e textos via IA.
 
 ## 🚀 Projetos em Destaque:
 
-### [NOME DO SEU MELHOR PROJETO PYTHON]
-- **O que faz:** Descrição rápida (ex: Extração automática de relatórios financeiros).
-- **Tecnologias:** Python, Selenium, Pandas.
+### [NOME DO PROJETO DE AGENTE IA]
+- **O que faz:** Ex: Agente que lê e-mails, classifica a urgência e responde automaticamente usando GPT-4o.
+- **Stack:** n8n, OpenAI Node, LangChain.
 - [Link para o repositório]
 
-### [NOME DO SEU MELHOR PROJETO N8N]
-- **O que faz:** Descrição rápida (ex: Sincronização automática de Leads entre Typeform e Google Sheets).
-- **Tecnologias:** n8n, Webhooks, Google API.
+### [NOME DO SISTEMA COM PYTHON + IA]
+- **O que faz:** Ex: Sistema que automatiza a análise de contratos e extrai cláusulas críticas usando Python.
+- **Stack:** Python, LangChain, FAISS (Vector Store).
 - [Link para o repositório]
 
-## 🔧 Minhas Ferramentas:
+## 🔧 Meu Arsenal Tecnológico:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
-📫 **Como me encontrar:**
+📫 **Vamos conversar sobre automação e IA:**
 [LinkedIn](https://www.linkedin.com/in/SEU-LINK) | [E-mail](mailto:SEU-EMAIL@email.com)
-
 <p align="left">
     <a href="https://www.youtube.com/">
         <img 
