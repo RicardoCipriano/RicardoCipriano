@@ -26,9 +26,9 @@ Este projeto foi construído focando em boas práticas de desenvolvimento, modul
 | **Gráficos** | `Matplotlib` | Geração de gráficos para o painel de estatísticas |.
 - [[Link para o repositório](https://github.com/RicardoCipriano/BeatSound.git)]
 
-### [NOME DO SISTEMA COM PYTHON + IA]
-- **O que faz:**
-- - [Link para o repositório]
+### [Agente de IA que responde e-mails comerciais.]
+- **O que faz:** O **Agente de IA** Um fluxo de trabalho completo que automatiza a leitura, interpretação e resposta de e-mails comerciais utilizando n8n, Gmail e um Agente de IA (Gemini). Ideal para empresas que desejam agilizar atendimento, padronizar comunicação e reduzir trabalho manual.
+- - [Link para o repositóriohttps://github.com/RicardoCipriano/-Agente-de-IA-que-responde-e-mails-comerciais..git]
 
 ## 🔧 Meu Arsenal Tecnológico:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
