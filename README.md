@@ -12,11 +12,6 @@ Especialista em **Automação Inteligente** e **Desenvolvimento de Sistemas com 
 ### [BeatSound]
 - **O que faz:** O **BeatSoundSearch** é uma aplicação desktop de alta performance para gerenciamento e reprodução de música, projetada para audiófilos e colecionadores. Desenvolvido em Python com uma arquitetura modular e moderna, o projeto combina uma interface visual rica no estilo Dark Mode com um ecossistema poderoso de APIs, ferramentas de automação e um servidor backend integrado.
 Este projeto foi construído focando em boas práticas de desenvolvimento, modularidade e performance, sendo um excelente exemplo de aplicação full-stack híbrida (Desktop + API).
-- **Stack:** n8n, OpenAI Node, LangChain.
-- [[Link para o repositório](https://github.com/RicardoCipriano/BeatSound.git)]
-
-### [NOME DO SISTEMA COM PYTHON + IA]
-- **O que faz:** Ex: Sistema que automatiza a análise de contratos e extrai cláusulas críticas usando Python.
 - **Stack:** **Linguagem** | `Python 3.10+` | Núcleo do sistema |
 | **Interface (GUI)** | `CustomTkinter` | Framework principal para a interface moderna |
 | **Extensões GUI** | `CTkTable`, `CTkMenuBar`, `CTkToolTip` | Componentes avançados de interface |
@@ -29,7 +24,11 @@ Este projeto foi construído focando em boas práticas de desenvolvimento, modul
 | **Web Scraping** | `BeautifulSoup4`, `lxml` | Extração de dados complementares da web |
 | **Processamento de Imagem**| `Pillow (PIL)` | Manipulação e renderização de capas e efeitos visuais |
 | **Gráficos** | `Matplotlib` | Geração de gráficos para o painel de estatísticas |.
-- [Link para o repositório]
+- [[Link para o repositório](https://github.com/RicardoCipriano/BeatSound.git)]
+
+### [NOME DO SISTEMA COM PYTHON + IA]
+- **O que faz:**
+- - [Link para o repositório]
 
 ## 🔧 Meu Arsenal Tecnológico:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
