@@ -1,5 +1,3 @@
-# 🤖 Ricardo Cipriano
-
 # Olá, eu sou o Ricardo Cipriano! 👋
 
 Especialista em Automação de Processos e RPA. Meu foco é transformar tarefas manuais repetitivas em fluxos digitais eficientes e escaláveis.
