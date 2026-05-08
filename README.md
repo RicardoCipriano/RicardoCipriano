@@ -5,7 +5,7 @@ Especialista em **Automação Inteligente** e **Desenvolvimento de Sistemas com 
 ## 🤖 Especialidades em IA:
 - **Agentes de IA com n8n:** Criação de fluxos autônomos que utilizam OpenAI, Anthropic e modelos locais para tomada de decisão e processamento de linguagem natural.
 - **Desenvolvimento de Sistemas com IA:** Integração de Python com APIs de inteligência artificial para análise de dados e automação de tarefas cognitivas.
-- **RPA Inteligente:** Evolução do RPA tradicional para processos que exigem interpretação de documentos e textos via IA.
+- **Robôs Inteligentes para RPA: Solução focada em automatizar tarefas repetitivas, utilizando robôs inteligentes que atuam de forma autônoma na execução dos processos.
 
 ## 🚀 Projetos em Destaque:
 
