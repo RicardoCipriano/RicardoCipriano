@@ -10,7 +10,7 @@ Especialista em **Automação Inteligente** e **Desenvolvimento de Sistemas com 
 ## 🚀 Projetos em Destaque:
 
 ### [BeatSound]
-- **O que faz:** O **BeatSoundSearch** é uma aplicação desktop de alta performance para gerenciamento e reprodução de música, projetada para audiófilos e colecionadores. Desenvolvido em Python com uma arquitetura modular e moderna, o projeto combina uma interface visual rica no estilo Dark Mode com um ecossistema poderoso de APIs, ferramentas de automação e um servidor backend integrado.
+- **O que faz:** O **BeatSound** é uma aplicação desktop de alta performance para gerenciamento e reprodução de música, projetada para audiófilos e colecionadores. Desenvolvido em Python com uma arquitetura modular e moderna, o projeto combina uma interface visual rica no estilo Dark Mode com um ecossistema poderoso de APIs, ferramentas de automação e um servidor backend integrado.
 Este projeto foi construído focando em boas práticas de desenvolvimento, modularidade e performance, sendo um excelente exemplo de aplicação full-stack híbrida (Desktop + API).
 - **Stack:** **Linguagem** | `Python 3.10+` | Núcleo do sistema |
 | **Interface (GUI)** | `CustomTkinter` | Framework principal para a interface moderna |
