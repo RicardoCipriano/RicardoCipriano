@@ -29,8 +29,17 @@ Este projeto foi construído focando em boas práticas de desenvolvimento, modul
 ### [Agente de IA que responde e-mails comerciais.]
 - **O que faz:** O **Agente de IA** Um fluxo de trabalho completo que automatiza a leitura, interpretação e resposta de e-mails comerciais utilizando n8n, Gmail e um Agente de IA (Gemini). Ideal para empresas que desejam agilizar atendimento, padronizar comunicação e reduzir trabalho manual.
 
-- **Stack:** **Linguagem** N8N
+- **Stack:** **Linguagem** N8n, Gemini, Gmail.
 - - [Link para o repositório](https://github.com/RicardoCipriano/-Agente-de-IA-que-responde-e-mails-comerciais..git).]
+
+### [Agente de IA para analise de reembolso.]
+- **O que faz:** O **Agente de IA** Este projeto implementa um agente de IA para análise de pedidos de reembolso, utilizando:
+n8n para automação e orquestração do fluxo,IA (Google Gemini Chat Model) para classificação de clientes planilhas Google como base de dados Gmail e Telegram para envio de notificações personalizadas
+O objetivo é criar um fluxo automático que receba notificações via Webhook, processe o texto com IA, classifique o tipo de cliente e envie mensagens adequadas para cada perfil.
+
+- **Stack:** **Linguagem** N8n,Gmail,Gemini,Telegram.
+- - [Link para o repositório](https://github.com/RicardoCipriano/agente-de-IA-para-an-lise-de-reembolsos.git).]
+
 
 ## 🔧 Meu Arsenal Tecnológico:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
