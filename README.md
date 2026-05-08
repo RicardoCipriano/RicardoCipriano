@@ -1,10 +1,34 @@
 # 🤖 Ricardo Cipriano
 
-**`Especialista em Agentes de IA e Automação de Processos`**
+# Olá, eu sou o Ricardo Cipriano! 👋
 
-## Me chamo Ricardo Cipriano, tenho 48 anos e sou natural de São Paulo. Larga experiencia desde 2009 atuando com técnologia, desde sempre com automação de sistemas para o para o varejo "retail", atuando em  grandes projetos, implantação de sistemas retaguarda e checkout. A frentre em projetos de melhorias de sistema e qualidade.
-Hoje transacionando meu perfil de atuação, voltado para automação de processo e sistemas com inteligencia artifical, para criação de sistemas eficiente com processos e entrega agil.
-Permitindo que as empresas ganhem escala, eficiência e flexibilidade, indo além da simples execução de tarefas repetitivas para a tomada de decisões inteligentes e aprimoramento contínuo dos processos.
+Especialista em Automação de Processos e RPA. Meu foco é transformar tarefas manuais repetitivas em fluxos digitais eficientes e escaláveis.
+
+## 🛠️ No que eu trabalho:
+- **RPA com Python:** Desenvolvimento de bots para automação de tarefas em sistemas web e desktop.
+- **Automação Low-Code (n8n):** Criação de workflows complexos conectando APIs, CRMs e bancos de dados.
+- **Integrações:** Conexão de serviços via Webhooks e APIs REST.
+
+## 🚀 Projetos em Destaque:
+
+### [NOME DO SEU MELHOR PROJETO PYTHON]
+- **O que faz:** Descrição rápida (ex: Extração automática de relatórios financeiros).
+- **Tecnologias:** Python, Selenium, Pandas.
+- [Link para o repositório]
+
+### [NOME DO SEU MELHOR PROJETO N8N]
+- **O que faz:** Descrição rápida (ex: Sincronização automática de Leads entre Typeform e Google Sheets).
+- **Tecnologias:** n8n, Webhooks, Google API.
+- [Link para o repositório]
+
+## 🔧 Minhas Ferramentas:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
+
+---
+📫 **Como me encontrar:**
+[LinkedIn](https://www.linkedin.com/in/SEU-LINK) | [E-mail](mailto:SEU-EMAIL@email.com)
 
 <p align="left">
     <a href="https://www.youtube.com/">
