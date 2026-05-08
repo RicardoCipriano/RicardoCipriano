@@ -9,10 +9,10 @@ Especialista em **Automação Inteligente** e **Desenvolvimento de Sistemas com 
 
 ## 🚀 Projetos em Destaque:
 
-### [NOME DO PROJETO DE AGENTE IA]
+### [BeatSound]
 - **O que faz:** Ex: Agente que lê e-mails, classifica a urgência e responde automaticamente usando GPT-4o.
 - **Stack:** n8n, OpenAI Node, LangChain.
-- [Link para o repositório]
+- [[Link para o repositório](https://github.com/RicardoCipriano/BeatSound.git)]
 
 ### [NOME DO SISTEMA COM PYTHON + IA]
 - **O que faz:** Ex: Sistema que automatiza a análise de contratos e extrai cláusulas críticas usando Python.
