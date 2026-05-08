@@ -10,13 +10,25 @@ Especialista em **Automação Inteligente** e **Desenvolvimento de Sistemas com 
 ## 🚀 Projetos em Destaque:
 
 ### [BeatSound]
-- **O que faz:** Ex: Agente que lê e-mails, classifica a urgência e responde automaticamente usando GPT-4o.
+- **O que faz:** O **BeatSoundSearch** é uma aplicação desktop de alta performance para gerenciamento e reprodução de música, projetada para audiófilos e colecionadores. Desenvolvido em Python com uma arquitetura modular e moderna, o projeto combina uma interface visual rica no estilo Dark Mode com um ecossistema poderoso de APIs, ferramentas de automação e um servidor backend integrado.
+Este projeto foi construído focando em boas práticas de desenvolvimento, modularidade e performance, sendo um excelente exemplo de aplicação full-stack híbrida (Desktop + API).
 - **Stack:** n8n, OpenAI Node, LangChain.
 - [[Link para o repositório](https://github.com/RicardoCipriano/BeatSound.git)]
 
 ### [NOME DO SISTEMA COM PYTHON + IA]
 - **O que faz:** Ex: Sistema que automatiza a análise de contratos e extrai cláusulas críticas usando Python.
-- **Stack:** Python, LangChain, FAISS (Vector Store).
+- **Stack:** **Linguagem** | `Python 3.10+` | Núcleo do sistema |
+| **Interface (GUI)** | `CustomTkinter` | Framework principal para a interface moderna |
+| **Extensões GUI** | `CTkTable`, `CTkMenuBar`, `CTkToolTip` | Componentes avançados de interface |
+| **Áudio** | `PyGame` | Gerenciamento de reprodução de áudio de baixa latência |
+| **Processamento de Áudio**| `sounddevice`, `soundfile` | Captura e processamento para o visualizador de espectro |
+| **Backend / API** | `FastAPI`, `Uvicorn` | Servidor API RESTful integrado |
+| **Banco de Dados** | `SQLite3` | Persistência de dados e cache de metadados |
+| **Metadados** | `Mutagen` | Manipulação e edição de tags ID3 de arquivos de áudio |
+| **Download** | `yt-dlp` | Motor de download de mídia |
+| **Web Scraping** | `BeautifulSoup4`, `lxml` | Extração de dados complementares da web |
+| **Processamento de Imagem**| `Pillow (PIL)` | Manipulação e renderização de capas e efeitos visuais |
+| **Gráficos** | `Matplotlib` | Geração de gráficos para o painel de estatísticas |.
 - [Link para o repositório]
 
 ## 🔧 Meu Arsenal Tecnológico:
