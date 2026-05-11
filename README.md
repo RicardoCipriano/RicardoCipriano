@@ -40,7 +40,7 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 - **Stack:** **Linguagem** N8n,Gmail,Gemini,Telegram.
 - - [Link para o repositório](https://github.com/RicardoCipriano/agente-de-IA-para-an-lise-de-reembolsos.git).]
 
-### [Automação RPA Pythom - Python Devstudio 2.]
+### [Automação RPA Pythom - Robô extrator de dados, que faz imput em uma aplicação desktop]
 - **O que faz:** O **Robô** Esse é um projeto onde o robo lê o caminho de uma plnailha de dados excel, o robô abre um sistema desktop .exe, e insere os dados da planilha extraido e faz o imput na aplicação desktop, ao final o robô sai e fecha a plaicação desktop.
 
 - **Stack:** **Linguagem** Python.
