@@ -45,6 +45,17 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 
 - **Stack:** **Linguagem** Python.
 - - [Link para o repositório](https://github.com/RicardoCipriano/Automa-o-RPA-Pythom.git).]
+ 
+  - ### [Automação RPA Pythom - RPA Web: Automação Híbrida com BotCity & Playwright]
+- **O que faz:** O **Robô** este projeto demonstra uma automação robusta que integra leitura de dados estruturados em Excel com uma aplicação Web Corporativa. O robô utiliza o framework **BotCity** para orquestração e **Playwright** para uma manipulação de browser veloz e resiliente.
+
+
+- **Stack:** ****Framework RPA:** [BotCity](https://botcity.dev/)
+- **Linguagem:** Python 3.x
+- **Automação de Browser:** Playwright (Python)
+- **Manipulação de Dados:** Pandas / Excel-file-reader
+- **IDE/Ferramentas:** BotCity Studio 2 / VS Code
+- - [Link para o repositório](https://github.com/RicardoCipriano/Automa-o-RPA-Pythom.git).]
 
 
 ## 🔧 Meu Arsenal Tecnológico:
