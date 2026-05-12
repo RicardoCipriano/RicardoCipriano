@@ -77,7 +77,7 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 
 ---
 📫 **Vamos conversar sobre automação e IA:**
-[LinkedIn](https://www.linkedin.com/in/SEU-LINK) | [E-mail](mailto:SEU-EMAIL@email.com)
+[LinkedIn](https://www.linkedin.com/in/SEU-LINK) | [E-mail](rc77.rc91@gmail.com)
 
 ###  🤖 Linguagens e Tecnologias
 
