@@ -55,7 +55,7 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 - **Automação de Browser:** Playwright (Python)
 - **Manipulação de Dados:** Pandas / Excel-file-reader
 - **IDE/Ferramentas:** BotCity Studio 2 / VS Code
-- - [Link para o repositório](https://github.com/RicardoCipriano/Automa-o-RPA-Pythom.git).]
+- - [Link para o repositório](https://github.com/RicardoCipriano/RPA-Web.git).]
 
 
 ## 🔧 Meu Arsenal Tecnológico:
