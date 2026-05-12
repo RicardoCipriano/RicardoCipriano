@@ -56,6 +56,17 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 - **Manipulação de Dados:** Pandas / Excel-file-reader
 - **IDE/Ferramentas:** BotCity Studio 2 / VS Code
 - - [Link para o repositório](https://github.com/RicardoCipriano/RPA-Web.git).]
+ 
+  -   - ### [Automação RPA Pythom - RPA Full Cycle: Extração Multipáginas e Alimentação de ERP]
+- **O que faz:** O **Robô** este projeto apresenta uma automação de ponta a ponta (End-to-End) que realiza a coleta de dados de fornecedores em um portal web, lida com paginação dinâmica e finaliza com a inserção dos dados em um sistema ERP corporativo..
+
+
+- **Stack:** ******Framework RPA:** [BotCity](https://botcity.dev/)
+- **Linguagem:** Python 3.x
+- **Automação de Browser:** Selenium / Playwright
+- **Orquestração:** BotCity Studio 2 (Low-Code + Python Code)
+- **Lógica de Fluxo:** Loops de repetição e condicionais avançadas.
+- - [Link para o repositório](https://github.com/RicardoCipriano/RPA-Web.git).]
 
 
 ## 🔧 Meu Arsenal Tecnológico:
