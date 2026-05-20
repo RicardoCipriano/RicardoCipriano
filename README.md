@@ -1,5 +1,7 @@
 # Olá, eu sou o Ricardo Cipriano! 👋
 
+![](https://komarev.com/ghpvc/?username=RicardoCipriano)
+
 Especialista em **Automação Inteligente** e **Desenvolvimento de Sistemas com IA**. Unindo o poder do Python, a flexibilidade do n8n e a inteligência dos LLMs para criar soluções de próxima geração.
 
 ## 🤖 Especialidades em IA:
