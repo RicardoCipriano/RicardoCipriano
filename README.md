@@ -70,13 +70,16 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 - **Orquestração:** BotCity Studio 2 (Low-Code + Python Code)
 - **Lógica de Fluxo:** Loops de repetição e condicionais avançadas.
 - - [Link para o repositório](https://github.com/RicardoCipriano/RPA-Full-Cycle-Extra-o-Multip-ginas-e-Alimenta-o-de-ERP.git).]
+ 
+  - ### [API REST Spring Boot - Gerenciamento de Produtos]
+- **O que faz:** A **API** Este projeto consiste em uma API REST corporativa para gerenciamento de produtos, desenvolvida em Java 21 com o ecossistema Spring Boot 3 . O projeto representa uma transição e evolução de uma arquitetura anterior construída em Node.js (Express), elevando o nível de robustez, tipagem estática e resiliência de infraestrutura. desktop, ao final o robô sai e fecha a plaicação desktop.
+
+- **Stack:** **Linguagem** Java | Spring Boot | API Rest.
+- - [Link para o repositório](https://github.com/RicardoCipriano/api-spring-produtos.git).]
 
 
 ## 🔧 Meu Arsenal Tecnológico:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 📫 **Vamos conversar sobre automação e IA:**
