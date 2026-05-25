@@ -3,14 +3,14 @@
 
 Especialista em **Automação Inteligente** e **Desenvolvimento de Sistemas com IA**. Unindo o poder do Python, a flexibilidade do n8n e a inteligência dos LLMs para criar soluções de próxima geração.
 
-## 🤖 Especialidades em IA:
+##  Especialidades em IA:
 - **Agentes de IA com n8n:** Criação de fluxos autônomos que utilizam OpenAI, Anthropic e modelos locais para tomada de decisão e processamento de linguagem natural.
 - **Desenvolvimento de Sistemas com IA:** Integração de Python com APIs de inteligência artificial para análise de dados e automação de tarefas cognitivas.
 -   RPA Robôs Inteligentes: Solução focada em automatizar tarefas repetitivas, utilizando robôs inteligentes que atuam de forma autônoma na execução dos processos.
 - Spring Boot:  Framework Java para criação de aplicações empresariais robustas e microsserviços, oferecendo configuração mínima, injeção de dependência e produtividade elevada no desenvolvimento back-end.
 - APIs REST: Padrão arquitetural para construção de interfaces de comunicação entre sistemas, utilizando HTTP e métodos como GET, POST, PUT e DELETE, garantindo escalabilidade, interoperabilidade e integração simplificada com serviços web e aplicações front-end.
 
-## 🚀 Projetos em Destaque:
+##  Projetos em Destaque:
 
 ### [BeatSound]
 - **O que faz:** O **BeatSound** é uma aplicação desktop de alta performance para gerenciamento e reprodução de música, projetada para audiófilos e colecionadores. Desenvolvido em Python com uma arquitetura modular e moderna, o projeto combina uma interface visual rica no estilo Dark Mode com um ecossistema poderoso de APIs, ferramentas de automação e um servidor backend integrado.
@@ -82,10 +82,10 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-📫 **Vamos conversar sobre automação e IA:**
+ **Vamos conversar sobre automação e IA:**
 [LinkedIn](https://www.linkedin.com/in/SEU-LINK) | [E-mail](rc77.rc91@gmail.com)
 
-### 🤖 LLMs e Tecnologias de IA.
+### LLMs e Tecnologias de IA.
 
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-2D2D2D?style=for-the-badge&logo=anthropic&logoColor=white)
