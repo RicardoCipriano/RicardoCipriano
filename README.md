@@ -87,10 +87,10 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 
 ###  LLMs e Tecnologias Utilizadas.
 
-<img align="left" alt="OpenAI GPT" title="OpenAI GPT-4/GPT-5" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
-<img align="left" alt="Anthropic Claude" title="Anthropic Claude 3/4" width="30px" style="padding-right: 10px;" src="https://www.anthropic.com/_next/static/images/logo-white-4c4fae9d743d7427a6a5c01c401b0f18.svg" />
-<img align="left" alt="Google Gemini" title="Google Gemini 1.5/2.0" width="30px" style="padding-right: 10px;" src="https://www.gstatic.com/lamda/images/gemini_favicon_v2_59d297d9e82d.svg" />
-<img align="left" alt="Meta Llama" title="Meta Llama 3/4" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Meta_Platforms_icon.svg" />
-<img align="left" alt="DeepSeek" title="DeepSeek R1/V3" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/148565291?s=200&v=4" />
+<img align="left" alt="ChatGPT" title="OpenAI GPT-4/GPT-5" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
+<img align="left" alt="Claude" title="Anthropic Claude" width="30px" style="padding-right: 10px;" src="https://www.anthropic.com/_next/static/images/logo-white-4c4fae9d743d7427a6a5c01c401b0f18.svg" />
+<img align="left" alt="Gemini" title="Google Gemini" width="30px" style="padding-right: 10px;" src="https://www.gstatic.com/lamda/images/gemini_favicon_v2_59d297d9e82d.svg" />
+<img align="left" alt="Llama" title="Meta Llama" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Meta_Platforms_icon.svg" />
+<img align="left" alt="DeepSeek" title="DeepSeek" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/148565291?s=200&v=4" />
 <img align="left" alt="Mistral" title="Mistral AI" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/131729378?s=200&v=4" />
-<img align="left" alt="xAI Grok" title="Grok" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/135004391?s=200&v=4" />
+<img align="left" alt="Grok" title="xAI Grok" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/135004391?s=200&v=4" />
