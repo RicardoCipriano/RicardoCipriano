@@ -85,12 +85,12 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 📫 **Vamos conversar sobre automação e IA:**
 [LinkedIn](https://www.linkedin.com/in/SEU-LINK) | [E-mail](rc77.rc91@gmail.com)
 
-###  LLMs e Tecnologias Utilizadas.
+### 🤖 LLMs e Tecnologias de IA.
 
-<img align="left" alt="ChatGPT" title="OpenAI GPT-4/GPT-5" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
-<img align="left" alt="Claude" title="Anthropic Claude" width="30px" style="padding-right: 10px;" src="https://www.anthropic.com/_next/static/images/logo-white-4c4fae9d743d7427a6a5c01c401b0f18.svg" />
-<img align="left" alt="Gemini" title="Google Gemini" width="30px" style="padding-right: 10px;" src="https://www.gstatic.com/lamda/images/gemini_favicon_v2_59d297d9e82d.svg" />
-<img align="left" alt="Llama" title="Meta Llama" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Meta_Platforms_icon.svg" />
-<img align="left" alt="DeepSeek" title="DeepSeek" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/148565291?s=200&v=4" />
-<img align="left" alt="Mistral" title="Mistral AI" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/131729378?s=200&v=4" />
-<img align="left" alt="Grok" title="xAI Grok" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/135004391?s=200&v=4" />
+![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-2D2D2D?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/Meta_Llama-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6FA5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF6B4A?style=for-the-badge&logo=mistral&logoColor=white)
+![xAI Grok](https://img.shields.io/badge/xAI_Grok-000000?style=for-the-badge&logo=x&logoColor=white)
