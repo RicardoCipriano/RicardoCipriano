@@ -85,118 +85,12 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 📫 **Vamos conversar sobre automação e IA:**
 [LinkedIn](https://www.linkedin.com/in/SEU-LINK) | [E-mail](rc77.rc91@gmail.com)
 
-###  🤖 Linguagens e Tecnologias
+###  LLMs e Tecnologias Utilizadas.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+<img align="left" alt="OpenAI GPT" title="OpenAI GPT-4/GPT-5" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
+<img align="left" alt="Anthropic Claude" title="Anthropic Claude 3/4" width="30px" style="padding-right: 10px;" src="https://www.anthropic.com/_next/static/images/logo-white-4c4fae9d743d7427a6a5c01c401b0f18.svg" />
+<img align="left" alt="Google Gemini" title="Google Gemini 1.5/2.0" width="30px" style="padding-right: 10px;" src="https://www.gstatic.com/lamda/images/gemini_favicon_v2_59d297d9e82d.svg" />
+<img align="left" alt="Meta Llama" title="Meta Llama 3/4" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Meta_Platforms_icon.svg" />
+<img align="left" alt="DeepSeek" title="DeepSeek R1/V3" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/148565291?s=200&v=4" />
+<img align="left" alt="Mistral" title="Mistral AI" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/131729378?s=200&v=4" />
+<img align="left" alt="xAI Grok" title="Grok" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/135004391?s=200&v=4" />
