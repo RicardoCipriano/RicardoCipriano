@@ -60,7 +60,7 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 - **IDE/Ferramentas:** BotCity Studio 2 / VS Code
 - - [Link para o repositório](https://github.com/RicardoCipriano/RPA-Web.git).]
  
-  -   - ### [Automação RPA Pythom - RPA Full Cycle: Extração Multipáginas e Alimentação de ERP]
+  - ### [Automação RPA Pythom - RPA Full Cycle: Extração Multipáginas e Alimentação de ERP]
 - **O que faz:** O **Robô** este projeto apresenta uma automação de ponta a ponta (End-to-End) que realiza a coleta de dados de fornecedores em um portal web, lida com paginação dinâmica e finaliza com a inserção dos dados em um sistema ERP corporativo..
 
 
