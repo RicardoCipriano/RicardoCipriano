@@ -83,7 +83,7 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 
 ---
  **Vamos conversar sobre automação e IA:**
-[LinkedIn](https://br.linkedin.com/in/ricardo-cipriano-projetos) | [E-mail](rc77.rc91@gmail.com)
+[LinkedIn](https://br.linkedin.com/in/ricardo-cipriano-projetos)
 
 ### LLMs e Tecnologias de IA.
 
