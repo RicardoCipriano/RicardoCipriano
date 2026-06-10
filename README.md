@@ -100,3 +100,5 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 ![Certificado Python RPA Dev Studio 2](Certificado%20Python%20Rpa%20Dev%20Studio%202.png)
 
 [![Miniatura do Certificado](https://blr1.digitaloceanspaces.com/apac-badge-image/1477/5744/716686/cert_d09de2f55744.png)](https://blr1.digitaloceanspaces.com/apac-badge-image/1477/5744/716686/cert_d09de2f55744.png)
+
+[![Miniatura do Certificado].(https://blr1.digitaloceanspaces.com/apac-badge-image/1477/17689/716702/cert_50ce06af17689.png)](https://blr1.digitaloceanspaces.com/apac-badge-image/1477/17689/716702/cert_50ce06af17689.png)
