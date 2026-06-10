@@ -87,7 +87,7 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 
 https://blr1.digitaloceanspaces.com/apac-badge-image/1477/5744/716686/cert_d09de2f55744.png
 
-### LLMs e Tecnologias de IA.
+### Tecnologias de IA.
 
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-2D2D2D?style=for-the-badge&logo=anthropic&logoColor=white)
