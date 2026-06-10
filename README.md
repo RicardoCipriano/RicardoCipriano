@@ -95,4 +95,6 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF6B4A?style=for-the-badge&logo=mistral&logoColor=white)
 ![xAI Grok](https://img.shields.io/badge/xAI_Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 
+![Certificado Python RPA Dev Studio 2]("Certificado Python Rpa Dev Studio 2.png")
+
 [![Miniatura do Certificado](https://blr1.digitaloceanspaces.com/apac-badge-image/1477/5744/716686/cert_d09de2f55744.png)](https://blr1.digitaloceanspaces.com/apac-badge-image/1477/5744/716686/cert_d09de2f55744.png)
