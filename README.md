@@ -85,7 +85,7 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
  **Vamos conversar sobre automação e IA:**
 [LinkedIn](https://br.linkedin.com/in/ricardo-cipriano-projetos)
 
-### Tecnologias de IA.
+### Tecnologias de IA que utilizo para desenvolver projetos low code no code.
 
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-2D2D2D?style=for-the-badge&logo=anthropic&logoColor=white)
