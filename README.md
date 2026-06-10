@@ -85,8 +85,6 @@ O objetivo é criar um fluxo automático que receba notificações via Webhook, 
  **Vamos conversar sobre automação e IA:**
 [LinkedIn](https://br.linkedin.com/in/ricardo-cipriano-projetos)
 
-https://blr1.digitaloceanspaces.com/apac-badge-image/1477/5744/716686/cert_d09de2f55744.png
-
 ### Tecnologias de IA.
 
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -96,3 +94,5 @@ https://blr1.digitaloceanspaces.com/apac-badge-image/1477/5744/716686/cert_d09de
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6FA5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF6B4A?style=for-the-badge&logo=mistral&logoColor=white)
 ![xAI Grok](https://img.shields.io/badge/xAI_Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+
+[![Miniatura do Certificado](https://blr1.digitaloceanspaces.com/apac-badge-image/1477/5744/716686/cert_d09de2f55744.png)](https://blr1.digitaloceanspaces.com/apac-badge-image/1477/5744/716686/cert_d09de2f55744.png)
